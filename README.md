@@ -1,6 +1,7 @@
 # My first Project
 
 ## **Course**: Geography 176A
-## **Name**: XXXXX
-## **Year**: XXXXX
-## **Major**: XXXXX
+## **Name**: Mike Johnson
+## **Year**: To many
+## **Major**: Geography
+## **OS**: MacOS
